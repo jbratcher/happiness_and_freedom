@@ -34,7 +34,10 @@ It seems obvious that freedom leads to happiness but how much and how do differe
 * How does geographic isolation relate to happiness?  Are people in landlocked countries less happy than those in coastal countries?
 * How does geographic isolation relate to freedom of movement?  Are people in landlocked countries or coastal countries more free to move around?
 
-Datasets: Human Freedom Index (2018) (https://www.kaggle.com/gsutters/the-human-freedom-index), World Happiness Report (2017) (https://www.kaggle.com/unsdsn/world-happiness)
+Datasets:
+
+* Human Freedom Index (2018) (https://www.kaggle.com/gsutters/the-human-freedom-index) 
+* World Happiness Report (2017) (https://www.kaggle.com/unsdsn/world-happiness)
 
 
 * Dependencies
@@ -50,4 +53,5 @@ Seaborn
 
 * Running the project
 
-Open Jupyter Notebook, select Kernel, then Restart & Run  All
+Open Jupyter Notebook then open Happiness_Freedom.ipynb
+Select Kernel from the menu then Restart & Run All
