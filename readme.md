@@ -36,11 +36,11 @@ It seems obvious that freedom leads to happiness but how much and how do differe
 
 Datasets:
 
-* Human Freedom Index (2018) (https://www.kaggle.com/gsutters/the-human-freedom-index) 
+* Human Freedom Index (2018) (https://www.kaggle.com/gsutters/the-human-freedom-index)
 * World Happiness Report (2017) (https://www.kaggle.com/unsdsn/world-happiness)
 
 
-* Dependencies
+### Dependencies
 
 Python  
 Sqlite3  
@@ -51,7 +51,7 @@ Scipy
 Matplotlib  
 Seaborn   
 
-* Running the project
+### Running the project
 
 Open Jupyter Notebook then open Happiness_Freedom.ipynb
 Select Kernel from the menu then Restart & Run All
