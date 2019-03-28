@@ -42,16 +42,17 @@ Datasets:
 
 ### Dependencies
 
-Python  
-Sqlite3  
-Sqlalchemy  
-Numpy  
-Pandas   
-Scipy
 Matplotlib  
-Seaborn   
+Numpy  
+Pandas  
+Python  
+Scipy  
+Seaborn  
+Sqlite3  
+Sqlalchemy     
 
 ### Running the project
 
-Open Jupyter Notebook then open Happiness_Freedom.ipynb
-Select Kernel from the menu then Restart & Run All
+* 1. Open Jupyter Notebook
+* 2. open Happiness_Freedom.ipynb
+* 3. Select Kernel from the menu then Restart & Run All
