@@ -2,6 +2,23 @@
 
 **A brief review of the World Happiness Report and Human Freedom Index in terms of how presence of freedom affects happiness.**  
 
+### Dependencies
+
+Matplotlib  
+Numpy  
+Pandas  
+Python  
+Scipy  
+Seaborn  
+Sqlite3  
+Sqlalchemy     
+
+### Running the project
+
+* Open Jupyter Notebook
+* open Happiness_Freedom.ipynb
+* Select Kernel from the menu then Restart & Run All
+
 Analysis derived from data using the most recent World Happiness Report ([link](http://worldhappiness.report/)) and Human Freedom Index ([link](https://www.cato.org/human-freedom-index-new)).
 
 "The secret to happiness is freedom... and the secret to freedom is courage." - Thucydides ([wikipedia](https://en.wikipedia.org/wiki/Thucydides))
@@ -38,21 +55,3 @@ Datasets:
 
 * Human Freedom Index (2018) (https://www.kaggle.com/gsutters/the-human-freedom-index)
 * World Happiness Report (2017) (https://www.kaggle.com/unsdsn/world-happiness)
-
-
-### Dependencies
-
-Matplotlib  
-Numpy  
-Pandas  
-Python  
-Scipy  
-Seaborn  
-Sqlite3  
-Sqlalchemy     
-
-### Running the project
-
-* 1. Open Jupyter Notebook
-* 2. open Happiness_Freedom.ipynb
-* 3. Select Kernel from the menu then Restart & Run All
